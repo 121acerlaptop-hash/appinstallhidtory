@@ -1,0 +1,1 @@
+This project is configured for cloud builds. In GitHub Codespaces, use: gradle assembleDebug
